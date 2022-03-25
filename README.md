@@ -1,7 +1,7 @@
 # data_curation_tools
 Simple python scripts for finding matches between datasets
 
-## Comparing Column Values in Different Excel Files using Pandas
+## Comparing column values in different Excel files using Pandas
 
 ### Pandas for column matching
 This script allows comparison between column values in different Excel files to search for matches and/or similarity. This script uses the Pandas library from Python.The example below uses Excel files containing DNA sequences as an example, but no genetic knowledge is required to use this script. 
