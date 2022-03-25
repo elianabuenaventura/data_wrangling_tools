@@ -34,8 +34,8 @@ print(B.columns)
 ## This step is applied to the two columns in the two files, as shown in the code snippet below.
 
 
-my_unknown_id = A['Unknown_sample_no'].values.tolist()
-my_unknown_seq = A['Unknown_sample_seq'].values.tolist()
+My_unknown_id = A['Unknown_sample_no'].values.tolist()
+My_unknown_seq = A['Unknown_sample_seq'].values.tolist()
 
 Reference_species = B['Reference_sequences_ID'].values.tolist()
 Reference_sequences = B['Reference_sequences'].values.tolist()
