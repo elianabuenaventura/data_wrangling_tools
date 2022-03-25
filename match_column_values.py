@@ -13,8 +13,8 @@ This Python script compares column values in different Excel files against one a
 
 import pandas as pd
 
-A = pd.read_csv('sampled_seqs.csv')
-B = pd.read_csv('ref_seqs.csv')
+A = pd.read_csv(r'path/to/sampled_seqs.csv')
+B = pd.read_csv(r'path/to/ref_seqs.csv')
 
 print(A.columns)
 print(B.columns)
