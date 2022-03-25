@@ -50,7 +50,7 @@ Reference_sequences = B['Reference_sequences'].values.tolist()
 
 
 Ref_dict = dict(zip(Reference_species, Reference_sequences))
-Unknown_dict = dict(zip(my_unknown_id, my_unknown_seq))
+Unknown_dict = dict(zip(My_unknown_id, My_unknown_seq))
 
 
 ## To confirm the dictionaries have been made correctly, you can run the script in the terminal. 
