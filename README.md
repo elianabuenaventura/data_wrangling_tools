@@ -6,10 +6,10 @@ Context: You have some unknown samples of DNA sequences (simple strings composed
 match_column_values.py also saves all the matches to a single csv file. This will make it clear which sequences match, what the matching sequence is and where did it match. This script also saves the results in a .cvs file, which eases visualization and data interpretation.
 
 ## Search for keywords in selected PubMed abstracts
-This Python script searches for keywords in a series of PubMed abstracts
+The Python script 'search_keywords_ in_PubMed_abstracts.py' searches for keywords in a series of PubMed abstracts
 
 This example can be applied to perform very simple text mining and can be compared to the “find” tool in Microsoft Word.
 It might stop on the first occurence.
 
 ## Find transcription factor binding sites
-This Python script searches for transcription factor binding sites using the library re
+The Python script 'find_transcription_factor_binding_sites.py' searches for transcription factor binding sites.
