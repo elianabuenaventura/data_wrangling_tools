@@ -14,4 +14,4 @@ This example can be applied to perform very simple text mining and can be compar
 It might stop on the first occurence.
 
 ## Find transcription factor binding sites
-
+This Python script searches for transcription factor binding sites using the library re
